@@ -1,0 +1,36 @@
+/* General Styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #F9F9F9;
+  margin: 0;
+  padding: 0;
+}
+
+/* Basket Items */
+.basket-item img {
+  object-fit: cover;
+  border-radius: 8%;
+}
+
+.basket-item h5 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.basket-item p {
+  font-size: 0.9rem;
+  color: #999;
+}
+
+/* Order Summary */
+.bg-light {
+  background-color: #FCFCF7 !important;
+  border-radius: 15px;
+}
+
+button {
+  font-weight: bold;
+  background-color:#4CAF50;
+  color: white;
+}
